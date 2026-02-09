@@ -1,4 +1,4 @@
-# flutter_exercise
+# Exercise Mobile Class
 
 A new Flutter project.
 
